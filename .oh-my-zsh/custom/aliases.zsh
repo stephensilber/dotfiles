@@ -1,0 +1,11 @@
+# Custom aliases
+alias zshconf="vim ~/.zshrc"
+alias vimconf="vim ~/.vimrc"
+alias gs="git status"
+alias ga="git add"
+alias gap="git add -p"
+alias gct="git commit -m 'temp'"
+alias gca="git commit --ammend"
+alias c="clear"
+alias cdp="cd ~/projects/ios/live-ios-2"
+alias cda="cd ~/projects/python/bitcoin-arbitrage/arbitrage"
